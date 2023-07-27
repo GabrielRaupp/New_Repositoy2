@@ -1,0 +1,27 @@
+h1
+{
+    color: brown;
+}
+
+
+p
+{
+    color: rgb(102, 102, 102);
+}
+
+.bah
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12pt;
+    padding-top: 10pt;
+}
+
+.secre
+{
+    color:rgb(255, 255, 255)
+}
+
+#area
+{
+    border-radius: 5pt;
+}
